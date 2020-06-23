@@ -36,7 +36,7 @@ The entries in the data frame range from August 8th, 2009 (the date the sub-redd
 
 ## Results Summary
 
-When using a Structural Topic Model (STM) including `Gay_Marriage` as a prevalence covariate in order to examine the differences in topic occurrence before and after Obergefell v. Hodges, we can see that the Supreme Court ruling did have an effect on the topics of concern for the transgender community. 
+When using a Structural Topic Model (STM) including `Gay_Marriage` (whether a post was written before or after June 26th 2015) as a prevalence covariate in order to examine the differences in topic occurrence before and after Obergefell v. Hodges, we can see that the Supreme Court ruling did have an effect on the topics of concern for the transgender community. 
 
 ![](plots/Marriage_Estimates.png)
 
