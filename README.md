@@ -38,7 +38,7 @@ The entries in the data frame range from August 8th, 2009 (the date the sub-redd
 
 When using a Structural Topic Model (STM) including `Gay_Marriage` as a prevalence covariate in order to examine the differences in topic occurrence before and after Obergefell v. Hodges, we can see that the Supreme Court ruling did have an effect on the topics of concern for the transgender community. 
 
-![](plots/Figures/Marriage_Estimates.pdf)
+![](plots/Marriage_Estimates.pdf)
 
 
 While mental health, changing one’s legal name, transphobia, and hormones were more talked about before the Supreme Court ruling, relationships, family, sexuality, and identity questioning occur more often in posts after Obergefell. This indicates a shift in discourse towards the transgender community and an increase in individuals feeling like they are supported by their families, friends, and significant others. Additionally, in line with the fact that the ruling emphasized that the constitution protects peoples’ ability to express their gender identity, we can see that individuals are now more open to exploring their identity and sexuality online with their peers.
